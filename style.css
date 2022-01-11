@@ -1,0 +1,33 @@
+﻿body {
+    color:azure;
+    text-align:center;
+}
+.header_div {
+    width: 100%;
+    background-color: dimgray;
+    color: azure;
+    font-family:'Nunito', sans-serif;
+    font-weight: bolder;
+}
+    .header_div p {
+        font-family: 'Nunito', sans-serif;
+        letter-spacing: 2px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+.main_div button {
+    margin-top:30px;
+    font-family:'Raleway', sans-serif;
+    width:130px;
+    letter-spacing:3px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 5px 5px 5px dimgray;
+    color:darkslategray;
+    font-style: italic;
+    font-size: 22px;
+}
